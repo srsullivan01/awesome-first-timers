@@ -496,3 +496,8 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+  
+  -Name: Rory Sullivan
+   Place: Atlanta, GA
+   Bio: Awesome full-stack developer and future cyborg
+   GitHub: [srsullivan01](https://github.com/srsullivan01)
